@@ -8,6 +8,7 @@ Web-based recipe book.
 [![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/chadweimer/gomp.svg)](https://github.com/chadweimer/gomp/pulls)
 [![GitHub release](https://img.shields.io/github/release/chadweimer/gomp.svg)](https://github.com/chadweimer/gomp/releases)
 [![license](https://img.shields.io/github/license/chadweimer/gomp.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchadweimer%2Fgomp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchadweimer%2Fgomp?ref=badge_shield)
 
 ## Installation
 
@@ -205,3 +206,7 @@ These archives are deleted (cleaned) by the same `clean` target as above.
 ## Credits
 
 See [static/package.json](static/package.json) and [go.mod](go.mod)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchadweimer%2Fgomp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchadweimer%2Fgomp?ref=badge_large)
